@@ -1,0 +1,2 @@
+# ujicoba
+repository untuk latihan.
